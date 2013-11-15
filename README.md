@@ -1,3 +1,6 @@
+/*batch sample : spring-boot/spring-boot-samples/spring-boot-sample-batch/src/main/java/org/springframework/boot/sample/batch/SampleBatchApplication.java*/
+
+
 # Spring Boot [![Build Status](https://travis-ci.org/spring-projects/spring-boot.png?branch=master)](https://travis-ci.org/spring-projects/spring-boot)
 Spring Boot makes it easy to create Spring-powered, production-grade applications and
 services with absolute minimum fuss. It takes an opinionated view of the Spring platform
